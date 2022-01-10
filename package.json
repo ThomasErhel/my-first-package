@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "My first package",
   "main": "index.js",
+  "publishConfig": {
+    "@ThomasErhel:registry": "https://npm.pkg.github.com"
+ },
   "scripts": {
     "test": "npm test",
     "start": "node index.js"
