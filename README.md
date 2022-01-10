@@ -1,5 +1,7 @@
 # Welcome to the exercise on publishing packages!
 
+[My first npm package](https://registry.npmjs.org/my-first-package-mpw)
+
 This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.
 
 ## About this exercise
